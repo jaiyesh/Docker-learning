@@ -2,6 +2,8 @@
 
 Docker kernel namespaces and cgroups : https://medium.com/@saschagrunert/demystifying-containers-part-i-kernel-space-2c53d6979504
 
+Docker hello world app: https://hub.docker.com/r/jaiyesh/welcome_app
+
 ## Getting started with docker:
 docker run -d -p 80:80 docker/getting-started
 
